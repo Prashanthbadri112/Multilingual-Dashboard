@@ -1,0 +1,14 @@
+{
+    "dashboard": "Tablero",
+    "tb": "Tabla",
+    "ch": "Gráficos",
+    "lc": "Gráfico de Líneas",
+    "Prbc": "Gráfico de Barras de Precio de Producto",
+    "Usbc": "Gráfico de Barras de Usuarios",
+    "pch": "Gráfico de Pastel de Grupo Sanguíneo",
+    "tv": "Vista de Tabla",
+    "id": "Id",
+    "title": "Título",
+    "desc": "Descripción",
+    "llc":"Gráfico de Latitud y Longitud"
+}

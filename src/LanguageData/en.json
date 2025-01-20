@@ -1,0 +1,15 @@
+{
+    "dashboard": "Dashboard",
+    "tb": "Table",
+    "ch": "Charts",
+    "lc":"Line Chart",
+    "Prbc":"Product Price Bar Chart",
+    "Usbc":"User Bar Chart",
+    "pch":"Blood Group Pie Chart",
+    "tv":"Table View",
+    "id":"Id",
+    "title":"Title",
+    "desc":"Description",
+    "llc":"Latitude and Longitude Chart"
+
+}
